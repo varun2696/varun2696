@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun KR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img width="400" alt="GifImage" src="https://img.freepik.com/premium-vector/thoughtful-programmer-workplace-vector-flat-illustrations-business-theme_451939-221.jpg?size=626&ext=jpg"
+<img width="400" align='right' alt="GifImage" src="https://img.freepik.com/premium-vector/thoughtful-programmer-workplace-vector-flat-illustrations-business-theme_451939-221.jpg?size=626&ext=jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun2696&label=Profile%20views&color=0e75b6&style=flat" alt="varun2696" /> </p>
 
