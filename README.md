@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Varun KR</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img width="400" align='right' alt="GifImage" src="https://img.freepik.com/premium-vector/thoughtful-programmer-workplace-vector-flat-illustrations-business-theme_451939-221.jpg?size=626&ext=jpg" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun2696&label=Profile%20views&color=0e75b6&style=flat" alt="varun2696" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun2696" alt="varun2696" /></a> </p>
+<img width="400" align='right' alt="GifImage" src="https://img.freepik.com/premium-vector/thoughtful-programmer-workplace-vector-flat-illustrations-business-theme_451939-221.jpg?size=626&ext=jpg" />
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
