@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kZ12BmKJCJWiRh3YbND2zncih26N4j9h/view?usp=share_link](https://drive.google.com/file/d/1kZ12BmKJCJWiRh3YbND2zncih26N4j9h/view?usp=share_link)
 
+- 👨‍💻 All of my projects are available at [https://varun2696.github.io/](https://varun2696.github.io/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-kr-875b37199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-kr-875b37199/" height="30" width="40" /></a>
