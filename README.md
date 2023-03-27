@@ -1,10 +1,5 @@
 
-<div align="center" width:"50%">
- <img src="https://user-images.githubusercontent.com/110044436/211146171-95bd2bf4-37d8-43c4-aff8-372cfff8bf5b.gif"/>
-</div>
-
-
-<h1 align="center" display="flex"><img width="120px" src="https://user-images.githubusercontent.com/110044436/211144350-68954e94-e556-41a5-9d4a-1a1bdaffb819.png"/> 🙏 I'm<a href="https://github.com/blackcode1996/">Varun KR</a></h1> 
+<h1 align="center" display="flex"><img width="120px" src="https://user-images.githubusercontent.com/110044436/211144350-68954e94-e556-41a5-9d4a-1a1bdaffb819.png"/> 🙏 I'm<a href="https://github.com/varun2696/"> Varun KR</a></h1> 
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
