@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="center" display="flex"><img width="120px" src="https://user-images.githubusercontent.com/110044436/211144350-68954e94-e556-41a5-9d4a-1a1bdaffb819.png"/> 🙏 I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
+<h1 align="center" display="flex"><img width="120px" src="https://user-images.githubusercontent.com/110044436/211144350-68954e94-e556-41a5-9d4a-1a1bdaffb819.png"/> 🙏 I'm<a href="https://github.com/blackcode1996/">Varun KR</a></h1> 
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
@@ -25,8 +25,8 @@
 
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
-- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://blackcode1996.github.io/)
-- 📄  To see my -[Resume](https://drive.google.com/file/d/1DGs-bUVYzhtYaKHO6WVLHegLxLXubbdB/view?usp=sharing)
+- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://varun2696.github.io/)
+- 📄  To see my -[Resume](https://drive.google.com/file/d/1kZ12BmKJCJWiRh3YbND2zncih26N4j9h/view?usp=share_link)
 
 
 
@@ -34,10 +34,8 @@
 ## 📫 Contact me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)](https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)
-[![Gmail Badge](https://img.shields.io/badge/-aakashmukherjee1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakashmukherjee1996@gmail.com)](mailto:aakashmukherjee1996@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/aakash.mukherjee.58-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/aakash.mukherjee.58)](https://www.facebook.com/aakash.mukherjee.58)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/varun-kr-875b37199/)](https://www.linkedin.com/in/varun-kr-875b37199/)
+[![Gmail Badge](https://img.shields.io/badge/-aakashmukherjee1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakashmukherjee1996@gmail.com)](mailto:varunkr1996@gmail.com)
 
 
 
