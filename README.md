@@ -6,10 +6,7 @@
 </div>
 
 
- A tech-enthusiast, with 1000+ hours of hands-on coding & project
- experience in developing websites and has a robust problem-solving
- mindset which enables me to improve the performance, scalability,
- and reliability of any project assigned to me.
+A passionate coder who has studied MERN at Masai School and gained over 1000 hours of coding experience. With my knowledge and skills, I have built more than 10 websites. My proficiency in the MERN stack and my passion for coding make me a valuable asset in any development team.
 
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1371444859.1678761522&semt=ais"/>
