@@ -9,7 +9,7 @@
 </div>
 
 
-"As a passionate coder, I've undergone comprehensive Full Stack Web Development training at Masai School , accumulating over 1000 hours of hands-on coding experience. During my journey, I successfully developed and launched more than 10 websites. Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), my dedication to coding makes me a valuable asset to any development team."
+As a passionate coder, I've undergone comprehensive Full Stack Web Development training at Masai School , accumulating over 1000 hours of hands-on coding experience. During my journey, I successfully developed and launched more than 10 websites. Proficient in the MERN stack, my dedication to coding makes me a valuable asset to any development team.
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1371444859.1678761522&semt=ais"/>
 
