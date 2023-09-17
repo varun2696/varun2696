@@ -32,6 +32,17 @@ As a passionate coder, I've undergone comprehensive Full Stack Web Development t
 [![Gmail Badge](https://img.shields.io/badge/-varunkr1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunkr1996@gmail.com)](mailto:varunkr1996@gmail.com)
 
 
+<!------------------ Profile View Section ------------------------->
+
+<p align="left">
+    <a href="https://github.com/varun2696">
+        <img src="https://komarev.com/ghpvc/?username=varun2696&label=Profile%20views&color=0e75b6&style=flat" alt="Vkr-viewCount" />
+    </a>
+    <a href="https://github.com/varun2696?tab=followers">
+        <img src="https://img.shields.io/github/followers/varun2696?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+<br>
 
 ## ⚡ Technologies
 
@@ -64,10 +75,6 @@ As a passionate coder, I've undergone comprehensive Full Stack Web Development t
 
 <!--    -->
 
-<!--    --> 
-
-</div>
-
 
 ## 🏆 GitHub Trophies and Stats
 <p align="center">
@@ -77,30 +84,25 @@ As a passionate coder, I've undergone comprehensive Full Stack Web Development t
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 <p align="center">
-<!--    <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp"> -->
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=varun2696&count_private=true&theme=dark&animations=true&width=100%" alt="Varun"/>
-<!--    <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp"> -->
+   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=varun2696&show_icons=true&theme=panda" alt="varun-stats"/>
+   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 </p>
-
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=varun2696&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ <!--  stats and graph  -->
+<p align="center">
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=varun2696&theme=panda" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun2696&layout=donut&theme=panda" />
+ </p>
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varun2696.varun2696)
+ <h2 align="left">⚡Activity Graph:</h2>
+<div align="center">    
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varun2696&theme=panda" style="height: 300px" />  
+</div>                                                      
 
-<!--
-**blackcode1996/blackcode1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                                             
+ <!---- <![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varun2696.varun2696) ---->
