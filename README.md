@@ -93,8 +93,8 @@ As a passionate coder, I've undergone comprehensive Full Stack Web Development t
 
  <!--  stats and graph  -->
 <p align="center">
- <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varun2696&theme=panda" />
- <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun2696&layout=donut&theme=panda" />
+ <img align="left" width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=varun2696&theme=panda" />
+ <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun2696&layout=donut&theme=panda" />
  </p>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
