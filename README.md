@@ -7,9 +7,10 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
 </div>
-
-
-As a passionate coder, I've undergone comprehensive Full Stack Web Development training at Masai School , accumulating over 1000 hours of hands-on coding experience. During my journey, I successfully developed and launched more than 10 websites. Proficient in the MERN stack, my dedication to coding makes me a valuable asset to any development team.
+ <p>
+  An adaptable Full Stack Web Developer with proficiency in JavaScript and extensive experience in the MERN stack. Skilled in creating functional and scalable web applications using React, Node.js, and MongoDB. 
+  A collaborative and detail-oriented professional with strong problem-solving and communication abilities, ensuring seamless integration and software excellence.
+ </p>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1371444859.1678761522&semt=ais"/>
 
