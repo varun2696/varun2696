@@ -29,7 +29,7 @@
 ## 📫 Contact me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/varun-kr-875b37199/)](https://www.linkedin.com/in/varun-kr-875b37199/)
+[![Linkedin Badge](https://img.shields.io/badge/-Varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-kr-fsd96/)](https://www.linkedin.com/in/varun-kr-fsd96/)
 [![Gmail Badge](https://img.shields.io/badge/-varunkr1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunkr1996@gmail.com)](mailto:varunkr1996@gmail.com)
 
 
