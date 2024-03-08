@@ -19,7 +19,7 @@
 ## 😄 About Me
 
 
-- 🌱 I’m currently learning **MERN Stack, At Masai School**
+- 🌱 I Completed **MERN Stack, At Masai School**
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://varun2696.github.io/)
 - 📄  To see my -[Resume](https://drive.google.com/file/d/1kZ12BmKJCJWiRh3YbND2zncih26N4j9h/view?usp=share_link)
 
