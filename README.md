@@ -8,8 +8,10 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
 </div>
  <p>
-  An adaptable Full Stack Web Developer with proficiency in JavaScript and extensive experience in the MERN stack. Skilled in creating functional and scalable web applications using React, Node.js, and MongoDB. 
-  A collaborative and detail-oriented professional with strong problem-solving and communication abilities, ensuring seamless integration and software excellence.
+ Detail-oriented Full Stack Developer with 2+ years of experience in frontend and backend
+development. Proficient in building responsive web applications with HTML/CSS, JavaScript,
+React.js, Redux, Node.js, and MongoDB. Collaborative team player focused on delivering high-
+performance code and seamless user experiences.
  </p>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1371444859.1678761522&semt=ais"/>
