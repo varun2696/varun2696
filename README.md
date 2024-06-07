@@ -7,6 +7,7 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
 </div>
+
  <p>
  Detail-oriented Full Stack Developer with 2+ years of experience in frontend and backend
 development. Proficient in building responsive web applications with HTML/CSS, JavaScript,
