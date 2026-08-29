@@ -9,10 +9,7 @@
 </div>
 
  <p>
- Detail-oriented Full Stack Developer with 2+ years of experience in frontend and backend
-development. Proficient in building responsive web applications with HTML/CSS, JavaScript,
-React.js, Redux, Node.js, and MongoDB. Collaborative team player focused on delivering high-
-performance code and seamless user experiences.
+Full Stack Developer with 3.5+ years building performant, scalable web applications using React.js, Next.js, and TypeScript, backed by strong Node.js and REST API backend skills. Currently building enterprise AI analytics dashboards handling real-time data visualization for 10,000+ data points with SSE/WebSockets. Improved Core Web Vitals/Lighthouse scores from 62 to 94 through SSR/SSG and code-splitting; reduced UI re-renders by up to 35% via Redux Toolkit and optimized React Hooks. Experience spans secure RESTful API design, AWS (KMS, ECR, S3), Docker containerization, and OAuth 2.0/SSO integration. Strong track record collaborating across frontend, backend, cloud, and QA teams in Agile environments.
  </p>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1371444859.1678761522&semt=ais"/>
